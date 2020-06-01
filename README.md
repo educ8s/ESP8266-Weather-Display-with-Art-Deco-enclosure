@@ -27,6 +27,7 @@ The parts needed in order to build this project are the following:
 
 <b>The cost of the project is very low it is around $12!</b>
 
+# 3D Printed Enclosure
 
 We also need an enclosure for this project. If you like the Art Deco enclosure I designed for this project you download it from Thingiverse.
 
