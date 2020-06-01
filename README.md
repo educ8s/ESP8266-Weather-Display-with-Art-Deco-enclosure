@@ -24,6 +24,7 @@ The parts needed in order to build this project are the following:
 
 🛒 Wood Filament ▶ http://educ8s.tv/part/WoodFilament
 
+💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
 <b>The cost of the project is very low it is around $12!</b>
 
@@ -32,5 +33,3 @@ The parts needed in order to build this project are the following:
 We also need an enclosure for this project. If you like the Art Deco enclosure I designed for this project you download it from Thingiverse.
 
 🔗 Enclosure Files ▶ http://www.thingiverse.com/thing:1964380
-
-💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
