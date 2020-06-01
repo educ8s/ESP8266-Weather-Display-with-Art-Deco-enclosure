@@ -15,8 +15,11 @@ Watch the video here: https://www.youtube.com/watch?v=CAlKUCjfKFM
 The parts needed in order to build this project are the following:
 
 A Wemos D1 mini board ▶ http://educ8s.tv/part/D1Mini
+
 A 1.8” Color TFT display ▶ http://educ8s.tv/part/7735
+
 Some wires ▶ http://educ8s.tv/part/Wires
+
 The cost of the project is very low it is around $12!
 
 We also need an enclosure for this project. If you like the Art Deco enclosure I designed for this project you download it from Thingiverse.
