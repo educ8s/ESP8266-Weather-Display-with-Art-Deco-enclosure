@@ -8,7 +8,7 @@ The project connects to the internet and retrieves the weather forecast for my l
   <img src="preview.png" alt="Final Result" width="640">
 </p>
 
-Watch the video here: https://www.youtube.com/watch?v=GsrugNJ2JXU
+Watch the video here: https://www.youtube.com/watch?v=CAlKUCjfKFM
 
 # Parts Needed
 🛒 Arduino Uno ▶         http://educ8s.tv/part/ArduinoUno
