@@ -11,16 +11,17 @@ The project connects to the internet and retrieves the weather forecast for my l
 Watch the video here: https://www.youtube.com/watch?v=CAlKUCjfKFM
 
 # Parts Needed
-🛒 Arduino Uno ▶         http://educ8s.tv/part/ArduinoUno
 
-🛒 DHT22 Sensor ▶        http://educ8s.tv/part/DHT22
+The parts needed in order to build this project are the following:
 
-🛒 ST7920 LCD Display ▶  http://educ8s.tv/part/ST7920
+A Wemos D1 mini board ▶ http://educ8s.tv/part/D1Mini
+A 1.8” Color TFT display ▶ http://educ8s.tv/part/7735
+Some wires ▶ http://educ8s.tv/part/Wires
+The cost of the project is very low it is around $12!
 
-🛒 Breadboard ▶          http://educ8s.tv/part/SmallBreadboard
+We also need an enclosure for this project. If you like the Art Deco enclosure I designed for this project you download it from Thingiverse.
 
-🛒 Wires ▶               http://educ8s.tv/part/Wires
-
+Get it here ▶ http://www.thingiverse.com/thing:1964380
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
 
