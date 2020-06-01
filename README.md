@@ -29,10 +29,3 @@ We also need an enclosure for this project. If you like the Art Deco enclosure I
 Get it here ▶ http://www.thingiverse.com/thing:1964380
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
-
-# Schematic
-
-<p align="center">
-  <img src="SchematicST7920.png" alt="Schematic Diagram" width="640">
-</p>
-
