@@ -22,6 +22,8 @@ The parts needed in order to build this project are the following:
 
 🛒 Some wires ▶ http://educ8s.tv/part/Wires
 
+🛒 Wood Filament ▶ http://educ8s.tv/part/WoodFilament
+
 
 <b>The cost of the project is very low it is around $12!</b>
 
