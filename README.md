@@ -32,4 +32,4 @@ The parts needed in order to build this project are the following:
 
 We also need an enclosure for this project. If you like the Art Deco enclosure I designed for this project you download it from Thingiverse.
 
-🔗 Enclosure Files ▶ http://www.thingiverse.com/thing:1964380
+🔗 Enclosure Files ▶ [[http://www.thingiverse.com/thing:1964380](https://www.printables.com/model/222196-arduino-art-deco-weather-forecast-display)](https://www.printables.com/model/222196-arduino-art-deco-weather-forecast-display)
