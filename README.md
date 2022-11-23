@@ -4,7 +4,7 @@ This project uses a Wemos D1 mini board along with a 1.8” Color TFT screen (ST
 
 The project connects to the internet and retrieves the weather forecast for my location and displays it on the screen. The project only displays the weather icon, the temperature and the time of the prediction because I wanted a minimal look for this project. Of course you can easily add more information if you wish.
 
-#Video Tutorial
+# Video Tutorial
 
 <p align="center">
   <img src="preview.png" alt="Arduino Weather Display" width="800">
